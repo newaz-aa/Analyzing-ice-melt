@@ -10,4 +10,4 @@ Experimentation was performed with different color spaces (RGB, YCbCr, HSV, L*a*
 
 It was observed that there is an increase of around 3.5 times more water from melting after two years.
 
-icemelt.m file contains the segmentation function. analzye_ice_melt.mlx file contains necessary codes.
+icemelt.m file contains the segmentation function. analzye_ice_melt.mlx file contains necessary codes. icemelt18.png and icemelt20.png files display the segmentation.
