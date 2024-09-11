@@ -3,7 +3,7 @@
 
 Analyzing ice melt from satellite images
 
-![MATLAB](https://img.shields.io/badge/MATLAB-red)
+![MATLAB](https://img.shields.io/badge/MATLAB-2020a-red)
 
 
 ## Screenshots
