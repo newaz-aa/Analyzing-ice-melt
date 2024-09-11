@@ -22,8 +22,6 @@ It was observed that there is an increase of around 3.5 times more water from me
 
 ## Appendix
 
-Any additional information goes here
-
 * icemelt.m => This file contains the segmentation function
 * analzye_ice_melt.mlx => This file contains the necessary codes
 * The image files display the segmentation tasks.
