@@ -3,7 +3,7 @@
 
 Analyzing ice melt from satellite images
 
-![MATLAB](https://img.shields.io/badge/Color-Thresholder-app-green)
+![MATLAB](https://img.shields.io/badge/MATLAB-red)
 
 
 ## Screenshots
